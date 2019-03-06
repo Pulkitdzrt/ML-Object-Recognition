@@ -3,7 +3,7 @@ In this project, we will be deploying a convolutional neural network (CNN) for o
 
 https://arxiv.org/pdf/1412.6806.pdf
 
-This convolutional neural network obtained state-of-the-art performance at object recognition on the CIFAR-10 image dataset in 2015. We will build this model using Keras, a high-level neural network application programming interface (API) that supports both Theano and Tensorflow backends. You can use either backend; however, I will be using Theano.  
+This convolutional neural network obtained state-of-the-art performance at object recognition on the CIFAR-10 image dataset. We will build this model using Keras, a high-level neural network application programming interface (API) that supports both Theano and Tensorflow backends. You can use either backend; however, I will be using Theano.  
 
 In this project, we will learn to:
 * Import datasets from Keras
